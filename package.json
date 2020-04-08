@@ -1,19 +1,18 @@
 {
-	"name": "@mmstudio/widgets",
+	"name": "@mmstudio/wwx000001",
 	"version": "1.0.0",
-	"description": "$desc",
+	"description": "滑动列表控件",
 	"scripts": {
 		"test": "tsc -w",
 		"clean": "del-cli ./dist/",
 		"lint": "eslint ./src/**/*.ts",
 		"compile": "tsc",
 		"copy": "cpy 'src/*' '!src/index.ts' dist",
-		"build": "npm run clean && npm run lint && npm run copy && npm run compile",
-		"up": "git pull git@github.com:mm-core/base.git master"
+		"build": "npm run clean && npm run lint && npm run copy && npm run compile"
 	},
 	"repository": {
 		"type": "https+git",
-		"url": "https://github.com/mm-tpl/widgets-wxapp.git"
+		"url": "https://github.com/mm-widgets/wwx000001.git"
 	},
 	"miniprogram": "dist",
 	"main": "dist/index.js",
@@ -30,8 +29,8 @@
 		"框架"
 	],
 	"author": {
-		"name": "$user",
-		"email": "$email@xxx.com"
+		"name": "taoqf",
+		"email": "tao_qiufeng@126.com"
 	},
 	"maintainers": [
 		{
