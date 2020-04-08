@@ -1,28 +1,5 @@
-# Base
+# 微信小程序控件
 
-## Projects
+## 说明
 
-- amd
-	- on
-	- global
-	- web
-- cjs
-	- config
-	- invoke
-	- server
-
-## Branches
-
-- amd
-	- tpl
-		- tpl-web
-		- tpl-wxapp
-		- tpl-mobile
-	- atom-web
-	- atom-wxapp
-	- widgets
-- cjs
-	- atom-nodejs
-	- atom-mobile
-	- widgets-mobile
-	- widgets-wxapp
+[微信开发文档](https://developers.weixin.qq.com/miniprogram/dev/framework/custom-component/)
