@@ -15,6 +15,7 @@
 		"url": "https://github.com/mm-widgets/wwx000001.git"
 	},
 	"miniprogram": "dist",
+	"homepage": "https://mm-works.github.io",
 	"main": "dist/index.js",
 	"module": "dist/index.js",
 	"types": "dist/index.d.ts",
