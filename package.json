@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/wwx000001",
-	"version": "1.0.202004081612",
+	"version": "1.0.202004170941",
 	"description": "滑动列表控件",
 	"scripts": {
 		"test": "tsc -w",
